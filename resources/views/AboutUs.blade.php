@@ -1,0 +1,11 @@
+@extends('layouts.app')
+
+@section('content')
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis, ante sit amet pharetra volutpat, ante risus ultricies eros, sit amet faucibus augue mauris ut urna. Cras varius dolor varius erat rhoncus, eu pretium purus congue. Nulla et velit mauris. Sed facilisis, enim ut semper hendrerit, mauris est lacinia sem, vulputate fringilla orci leo non massa. Donec sollicitudin pretium mauris, in eleifend quam fermentum ac. Praesent volutpat placerat efficitur. Donec at ultricies diam.
+
+Etiam dictum in massa sed suscipit. Mauris auctor, sem vel aliquam vehicula, mi lorem vestibulum odio, eget auctor sapien turpis vitae ex. Phasellus id leo mattis, vulputate felis non, egestas mauris. Donec elementum cursus nisi nec varius. Mauris libero justo, dignissim ac nisl nec, scelerisque euismod ex. Vivamus felis magna, porta sed nisi ac, gravida placerat nisl. Nunc eu elit at velit pharetra posuere ultricies et orci. Donec maximus tellus euismod metus sollicitudin ultricies. Quisque sagittis, nulla ac placerat luctus, ex ante feugiat lacus, quis scelerisque felis ligula ut est. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec scelerisque ullamcorper vulputate. Etiam eget porttitor nunc. Morbi a ante a quam tincidunt rhoncus vel sit amet ex. Nam tellus mauris, lacinia dictum massa sed, consectetur ultricies ligula. Maecenas facilisis ante sit amet leo ullamcorper, eget tristique nulla hendrerit. Aenean sagittis felis dolor, nec facilisis dolor dapibus sit amet.
+
+Maecenas erat quam, hendrerit vel faucibus sit amet, consectetur id justo. Mauris ut dolor sit amet felis imperdiet mollis in vel turpis. Maecenas sollicitudin mattis nulla at egestas. Mauris nec metus orci. Aliquam egestas consequat condimentum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec sed dui nisl. Sed mattis, justo nec varius accumsan, nunc mauris vestibulum augue, vulputate congue ex nisi at elit. Mauris ac diam ac lorem consectetur consectetur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec at justo metus. Praesent et hendrerit nibh. Ut sollicitudin orci eget suscipit viverra. Fusce vel dolor quis eros tincidunt scelerisque eu at dolor. Proin blandit mauris nec lacinia fermentum.
+
+@endsection
