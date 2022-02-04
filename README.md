@@ -8,3 +8,11 @@ Projekt posiada także panel administratora. Po stworzeniu konta możemy nadać 
 W AdminPanel uzyskujemy możliwość edytowania,dodawania,usuwania oraz wyświetlania produktów jak i zamówień. Jest też możliwość wyświetlania informacji o użytkownikach oraz edytowania danych ich kont. W ten sposób możemy też nadać użytkownikowi uprawnienia administratora.
 
 Projekt wykorzystuje bazę danych PHPmyAdmin. 
+
+Aby uruchomić projekt należy:
+1. Pobrać kod
+2. Włączyć serwer Apache oraz bazę danych
+3. Możesz stworzyć swoją bazę danych za pomocą komendy php artisan migrate w konsoli
+4. Aby uzupełnić bazę danych losowymi danymi możesz użyc komendy php artisan db:seed
+5. Zamiast tego możesz dodawać dane używając funkcjonalności strony.
+6. stronę będzie można odpalić w przeglądarce w momencie gdy będac w katalogu głównym projektu wpiszemy <b>php artisan serve</b> w konsoli. 
